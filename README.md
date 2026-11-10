@@ -3,11 +3,17 @@ This project investigates how demographic, educational and employment characteri
 The project explores binary classification with a focus on how regularisation and model complexity affects performance and generalisation. The dataset selected is the Adult dataset from the UC Irvine Machine learning Repository.
 
 Method
-*Exploratory Data Analysis (EDA)*:
-Preprocessing:
-Logistic Regression:
-L1 and L2 Regularisation:
-Random Forest:
-Cross-Validation:
-Permutation Feature Importance (PFI):
+**Exploratory Data Analysis (EDA)**:
+
+**Preprocessing**:
+
+**Logistic Regression**:
+
+**L1 and L2 Regularisation**:
+
+**Random Forest**:
+
+**Cross-Validation**:
+
+**Permutation Feature Importance (PFI)**:
 
